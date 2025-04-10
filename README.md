@@ -1,7 +1,9 @@
 ## 🃏 Kawan Pinheiro
 **`Desenvolvedor Front-End`**
 
-Meu nome é Kawan, tenho 18 anos e sou de São Paulo. Aprendi a programar durante um curso técnico na Etec de Informática para Internet, onde gostei muito e busco me especializar cada vez mais na área como desenvolvedor web. Atualmente, faço curso no SENAI, aprendendo os fundamentos de Python e posteriormente fazer uma faculdade para engenharia de software.
+Cursando Análise e Desenvolvimento de Sistemas na FIAP e com formação técnica pela ETEC, estou em busca da minha primeira oportunidade de estágio para iniciar minha carreira em tecnologia. Tenho foco em desenvolvimento front-end e back-end, com conhecimentos em HTML, CSS, JavaScript, Bootstrap, Python, MySQL, Git e GitHub, além de experiência acadêmica com metodologias ágeis como Scrum e Kanban.
+
+Minha vivência como vendedor me ajudou a desenvolver habilidades de comunicação, atendimento e organização, que considero essenciais também na área de TI. Aprendo rápido, gosto de trabalhar em equipe e estou pronto para contribuir com soluções práticas, inovadoras e centradas no usuário.
 
 
 <div> 
